@@ -1,26 +1,26 @@
-#### Welcome to my profile! :D
+#  Welcome to my profile! :D
 Here you'll find some of my shareable projects that I've worked on.
 Feel free to browse through!
 
-#### I'm working on
+#### ⌨️ I'm working on
 * A C++ Chess Engine
 * A React website
 
-#### I'm learning
+#### 📓 I'm learning
 * C++
 * React
 
-#### Ask me about
+#### 👓 Ask me about
 * Anything :D
 
-#### You can reach me
+#### 🏡 You can reach me
 * Using [this](mailto:leon.rode13@gmail.com) email
  <details>
   <summary>Adding me on Discord </summary>
   lionrocker#3960
 </details>
 
-Thanks for viewing! :D
+✨ Thanks for viewing! :D
 <!--
 **lionrocker/lionrocker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

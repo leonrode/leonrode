@@ -1,4 +1,4 @@
-#  Welcome to my profile! :D
+#  Welcome! :D
 Here you'll find some of my shareable projects that I've worked on.
 Feel free to browse through!
 

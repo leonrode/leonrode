@@ -3,7 +3,7 @@ Here you'll find some of my shareable projects that I've worked on.
 Feel free to browse through!
 
 #### ⌨️ I'm working on
-* A C++ Chess Engine
+* SFML Graphics
 * A React website
 
 #### 📓 I'm learning

@@ -1,11 +1,11 @@
 <div align="center">
 
- <h3 align="center">
+ <h2 align="center">
    Welcome!&nbsp;👋<br />
    I'm Leon, <br />
    a self-teaching programmer, and <br />
    computer science enthusiast.<br />
- </h3>
+ </h2>
 
  ---
 

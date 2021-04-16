@@ -1,37 +1,37 @@
-#  Welcome! :D
-Here you'll find some of my shareable projects that I've worked on.
-Feel free to browse through!
+<div align="center">
 
-#### ⌨️ I'm working on
-* SFML Graphics
-* A React website
+ <h3 align="center">
+   Welcome!&nbsp;👋<br />
+   I'm Leon, <br />
+   a self-teaching programmer, and <br />
+   computer science enthusiast.<br />
+ </h3>
 
-#### 📓 I'm learning
-* C++
-* React
+ ---
 
-#### 👓 Ask me about
-* Anything :D
+ <h3 align="center">
+ Technologies I work with&nbsp;⌨️
+ </h3>
 
-#### 🏡 You can reach me
-* Using [this](mailto:leon.rode13@gmail.com) email
- <details>
-  <summary>Adding me on Discord </summary>
-  lionrocker#3960
-</details>
+<h4 align="center">• C++<br />• Python 3<br />• JavaScript<br />• React<br /></h4>
 
-✨ Thanks for viewing! :D
-<!--
-**lionrocker/lionrocker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<h3 align="center">
+ Tools I'm learning&nbsp;📓
+</h3>
+<h4 align="center">• C++<br />• React<br />• SFML</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h3 align="center">
+ What I'm working on!&nbsp;✏️
+ </h3>
+ 
+ <h4 align="center">• A React Website<br />• SFML Graphics</h4>
+ 
+ ---
+
+ <h3 align="center"> ✨ Thanks for viewing! :D</h3>
+
+</div>

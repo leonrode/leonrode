@@ -3,7 +3,7 @@
  <h2 align="center">
    Welcome!&nbsp;👋<br />
    I'm Leon, <br />
-   a self-teaching programmer, and <br />
+   a self-taught programmer, and <br />
    computer science enthusiast.<br />
  </h2>
 

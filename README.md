@@ -13,7 +13,7 @@ I've worked on the high level stuff, like websites and mobile apps, and I've dug
 <hr>
 
 <p align="center">
-	Make sure to take a look at my <strong>Arduino Dual-Axis Joystick Driver</strong>, an Arduino component library written fully in C++.
+	Make sure to take a look at my <strong><a href="https://github.com/lionrocker/better-joystick">Arduino Dual-Axis Joystick Driver</a></strong>, an Arduino component library written fully in C++.
 </p>
 
 <hr>

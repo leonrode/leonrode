@@ -20,7 +20,7 @@
 <h3 align="center">
  Tools I'm learning&nbsp;📓
 </h3>
-<h4 align="center">• C++<br />• React<br />• SFML</h4>
+<h4 align="center">• C++<br />• React<br />• SFML <br />• DSA with CP</h4>
 
 ---
 
@@ -28,7 +28,7 @@
  What I'm working on!&nbsp;✏️
  </h3>
  
- <h4 align="center">• A React Website<br />• SFML Graphics</h4>
+ <h4 align="center">• A React Website<br />• Sand Falling Automata with SFML</h4>
  
  ---
 

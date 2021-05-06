@@ -8,12 +8,12 @@ I've worked on the high level stuff, like websites and mobile apps, and I've dug
 
 <hr>
 
-<p align="center">I'm working on a <strong>React website</strong>, and an <strong>SFML Sand Simulation</strong>, written in C++.</p>
+<p align="center">I'm working on a <strong>new website</strong>!
 
 <hr>
 
 <p align="center">
-	Make sure to take a look at my <strong><a href="https://github.com/lionrocker/better-joystick">Arduino Dual-Axis Joystick Driver</a></strong>, an Arduino component library written fully in C++.
+	Make sure to take a look at my <strong><a href="https://github.com/lionrocker/better-joystick">Arduino Dual-Axis Joystick Driver</a></strong>, an Arduino component library written fully in C++, as well as my newly-completed <strong><a href="https://github.com/lionrocker/falling-sand">SFML Falling Sand Simulation</a>!</strong>
 </p>
 
 <hr>

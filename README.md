@@ -19,6 +19,6 @@ I've worked on the high level stuff, like websites and mobile apps, and I've dug
 <hr>
 
 <p align="center">
-Feel free to contact me using <a href="mailto:leon.rode13@gmail.com">this email</a>! Thanks!
+Feel free to contact me on Discord at lionrocker#3960 or using <a href="mailto:leon.rode13@gmail.com">this email</a>! Thanks!
 </p>
 

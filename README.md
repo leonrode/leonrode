@@ -9,7 +9,7 @@ I'm Leon, a high-school student who loves developing all kinds of software.
 ⚡ Open to project collaboration <br />
 ⚡ Building the website of your dreams <br />
 
-Notable Projects <br /> <br />
+### Notable Projects 
 ⚡ [westchestercovidtracker.com](https://westchestercovidtracker.com) <br />
 ⚡ [twosudoku.xyz](https://www.twosudoku.xyz) <br />
 ⚡ [better-joystick](https://github.com/leonrode/better-joystick) <br />

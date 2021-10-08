@@ -5,6 +5,8 @@
 
 I'm Leon, a high-school student who loves developing all kinds of software.
 
+🔎 [leonro.de](https://leonro.de)
+
 ⚡ Using React.js, Next.js, JavaScript, Python, and Node.js to power my projects <br />
 ⚡ Open to project collaboration <br />
 ⚡ Building the website of your dreams <br />

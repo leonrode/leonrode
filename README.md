@@ -13,5 +13,4 @@ I'm Leon, a high-school student who loves developing all kinds of software.
 
 ### Notable Projects 
 ⚡ [westchestercovidtracker.com](https://westchestercovidtracker.com) <br />
-⚡ [twosudoku.xyz](https://www.twosudoku.xyz) <br />
 ⚡ [better-joystick](https://github.com/leonrode/better-joystick) <br />

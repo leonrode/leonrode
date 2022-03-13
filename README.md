@@ -1,7 +1,7 @@
 
 
 ![leonro.de logo banner github](https://i.imgur.com/lcZOkRW.png)
-### Hi there!
+### 👋 Hi there!
 
 I'm Leon, a high-school student who loves developing all kinds of software.
 
@@ -12,5 +12,6 @@ I'm Leon, a high-school student who loves developing all kinds of software.
 ⚡ Building the website of your dreams <br />
 
 ### Notable Projects 
+⚡ [mazzle (in development)](https://mazzle.vercel.app) <br />
 ⚡ [westchestercovidtracker.com](https://westchestercovidtracker.com) <br />
 ⚡ [better-joystick](https://github.com/leonrode/better-joystick) <br />

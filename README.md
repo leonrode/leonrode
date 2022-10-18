@@ -1,6 +1,6 @@
 
 
-![leonro.de logo banner github](https://i.imgur.com/lcZOkRW.png)
+![leonro.de logo banner github](banner.png)
 ### 👋 Hi there!
 
 I'm Leon, a high-school student who loves developing all kinds of software.
